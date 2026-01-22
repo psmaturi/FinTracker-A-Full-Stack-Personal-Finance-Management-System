@@ -83,8 +83,7 @@ npm start
 
 ## 👤 Author
 
-**Pardha Saradhi**  
-GitHub: https://github.com/pardhasaradhi-3730  
+**Maturi Pardha Saradhi**  
 
 ---
 
